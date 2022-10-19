@@ -1,0 +1,14 @@
+.list-group-item
+{
+    cursor: pointer;
+    height: 50px;
+}
+
+.row
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    overflow-y: 50%;
+}

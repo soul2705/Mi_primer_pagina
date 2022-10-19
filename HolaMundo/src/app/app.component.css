@@ -1,0 +1,13 @@
+.fill
+{
+    height: 50vh;
+}
+
+
+.panel_contenido 
+{
+height: 60;
+overflow:auto;
+vertical-align:top;
+
+}
